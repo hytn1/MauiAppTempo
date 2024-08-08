@@ -1,5 +1,4 @@
 ﻿using MauiAppTempo.Models;
-using MauiAppTempo.Models;
 using System.Diagnostics;
 using System.Text.Json;
 
